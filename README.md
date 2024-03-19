@@ -1,15 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ![](https://komarev.com/ghpvc/?username=MarcoBuarque)
 
-<div>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=MarcoBuarque&hide=contribs,prs1" />
-</div>
-
-  <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,js,ts,py,kubernetes,docker,gcp,aws&theme=light" />
   </a>
-  </p>
+</p>
 
 ### Contact:
 <div>
